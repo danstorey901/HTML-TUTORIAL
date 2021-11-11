@@ -1,0 +1,42 @@
+body {
+    font: normal normal normal 15pt/20pt Georgia, Times, serif
+}
+#contact-header, #contact-name {
+    color: green;
+}
+#tech-csharp, #tech-java, #tech-angular{
+    color: blue
+}
+
+.redBold {
+    color: red;
+    font-weight: bold;
+
+}
+.italic {
+    font-style: italic;
+}
+.enlarge {
+    font-size: 2.0em;   /* em is an abbreviation of a french word meaning relative size....relative to the default size aka 12pt */
+    font-weight: bold
+}
+
+.fancy {
+    font-size: 30pt;
+    font-style:normal;
+    font-weight: bold;
+}
+.lessfancy {
+    font-size: 20pt;
+    font-style:normal;
+    font-weight: bold;
+}
+.data {
+    font-size: 15pt;
+    font-style:normal;
+    font-weight: normal;
+}
+
+/* this is for span.....span is to make things unstrutured or free form
+
+*/

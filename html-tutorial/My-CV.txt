@@ -1,0 +1,24 @@
+My-CV
+
+Selection: Personal Information
+    * Name
+    * Address
+    * Phone
+    * Email
+
+    Section: Technology
+        * Table of Technology Keywords
+
+    Section: Work Experience
+        * Job
+            * Title
+            * Company
+            * Duration
+            - Accomplishments
+            - Accomplishments
+            - Accomplishments
+
+    Section: Education
+        * School
+        * Degree
+        * Graduation Year
